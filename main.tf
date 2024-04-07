@@ -3,5 +3,5 @@ module "terraform-new-testing" {
   version = "0.1.0"
 
   # Required inputs 
-  version_number = 1
+  version_number = "0.1.0"
 }
